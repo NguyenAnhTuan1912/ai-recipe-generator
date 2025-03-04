@@ -25,3 +25,8 @@ dist-ssr
 
 # Sensitive data
 .env
+
+# amplify
+.amplify
+amplify_outputs*
+amplifyconfiguration*
